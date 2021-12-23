@@ -1,7 +1,7 @@
 # Accident Prediction Machine Learning
 
-## Canadian Motor Vehicle Traffic Collision Statistics
+### Canadian Motor Vehicle Traffic Collision Statistics
 
-### Autors: Pablo Fernandez Íbañez & Moisés Ollero Pérez
+#### Autors: Pablo Fernandez Íbañez & Moisés Ollero Pérez
 
-### MUCD Machine Learning 2021/22
+#### MUCD Machine Learning 2021/22
