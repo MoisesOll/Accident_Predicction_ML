@@ -4,4 +4,4 @@
 
 #### Autors: Pablo Fernandez Íbañez & Moisés Ollero Pérez
 
-#### MUCD Machine Learning 2021/22
+#### CUNEF MUCD Machine Learning 2021/22
