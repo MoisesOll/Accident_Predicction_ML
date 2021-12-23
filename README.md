@@ -1,8 +1,7 @@
-- Pablo Fernandez Ibañez
-- Moises Ollero Perez
+# Accident Prediction Machine Learning
 
-p.fernandezibanez@cunef.edu
-moises.ollero@cunef.edu
+## Canadian Motor Vehicle Traffic Collision Statistics
 
-https://github.com/MoisesOll/Accident_Predicction_ML
-https://github.com/Pablofdeez/Accident_Prediction_ML
+### Autors: Pablo Fernandez Íbañez & Moisés Ollero Pérez
+
+### MUCD Machine Learning 2021/22
